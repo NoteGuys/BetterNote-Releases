@@ -32,7 +32,7 @@ Official public distribution repository and binaries for **BetterNote Pro Studio
 
 ---
 
-## 🔗 Project Links
+## 🔗 Downloads & Feedback
 
-- **Main Source Code**: [NoteGuys/BetterNotePC](https://github.com/NoteGuys/BetterNotePC)
 - **All Release Downloads**: [Releases Archive](https://github.com/NoteGuys/BetterNote-Releases/releases)
+- **Problems & Suggestions**: [Issues](https://github.com/NoteGuys/BetterNote-Releases/issues)
